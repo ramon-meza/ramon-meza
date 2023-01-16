@@ -1,8 +1,8 @@
-### Hola, me llamo Ramón Meza. ¡Bienvenido a mi perfil! 👋
+### Hola, me llamo Ramón ¡Bienvenido a mi perfil! 👋
 
 
-**ramon-meza/ramon-meza** 
 ![](https://github.com/ramon-meza/ramon-meza/blob/main/Portada%20720.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
